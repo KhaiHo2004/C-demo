@@ -1,0 +1,18 @@
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.DataLayer\bin\Debug\SV18T1021143.DataLayer.dll
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.DataLayer\bin\Debug\SV18T1021143.DataLayer.pdb
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.DataLayer\bin\Debug\SV18T1021143.DomainModel.dll
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.DataLayer\bin\Debug\SV18T1021143.DomainModel.pdb
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.DataLayer\obj\Debug\SV18T1021143.DataLayer.csproj.AssemblyReference.cache
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.DataLayer\obj\Debug\SV18T1021143.DataLayer.csproj.CoreCompileInputs.cache
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.DataLayer\obj\Debug\SV18T1021143.DataLayer.csproj.CopyComplete
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.DataLayer\obj\Debug\SV18T1021143.DataLayer.dll
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.DataLayer\obj\Debug\SV18T1021143.DataLayer.pdb
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.DataLayer\bin\Debug\SV18T1021143.DataLayer.dll
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.DataLayer\bin\Debug\SV18T1021143.DataLayer.pdb
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.DataLayer\bin\Debug\SV18T1021143.DomainModel.dll
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.DataLayer\bin\Debug\SV18T1021143.DomainModel.pdb
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.DataLayer\obj\Debug\SV18T1021143.DataLayer.csproj.AssemblyReference.cache
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.DataLayer\obj\Debug\SV18T1021143.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.DataLayer\obj\Debug\SV18T102.459CA5BB.Up2Date
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.DataLayer\obj\Debug\SV18T1021143.DataLayer.dll
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.DataLayer\obj\Debug\SV18T1021143.DataLayer.pdb

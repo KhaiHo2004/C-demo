@@ -1,0 +1,11 @@
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.DomainModel\bin\Debug\SV18T1021143.DomainModel.dll
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.DomainModel\bin\Debug\SV18T1021143.DomainModel.pdb
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.DomainModel\obj\Debug\SV18T1021143.DomainModel.csproj.CoreCompileInputs.cache
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.DomainModel\obj\Debug\SV18T1021143.DomainModel.dll
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.DomainModel\obj\Debug\SV18T1021143.DomainModel.pdb
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.DomainModel\bin\Debug\SV18T1021143.DomainModel.dll
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.DomainModel\bin\Debug\SV18T1021143.DomainModel.pdb
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.DomainModel\obj\Debug\SV18T1021143.DomainModel.csproj.AssemblyReference.cache
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.DomainModel\obj\Debug\SV18T1021143.DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.DomainModel\obj\Debug\SV18T1021143.DomainModel.dll
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.DomainModel\obj\Debug\SV18T1021143.DomainModel.pdb

@@ -1,0 +1,124 @@
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\SV18T1021143.Web.dll.config
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\SV18T1021143.Web.dll
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\SV18T1021143.Web.pdb
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\roslyn\csc.exe
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\roslyn\csc.exe.config
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\roslyn\csc.rsp
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\roslyn\csi.exe
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\roslyn\csi.rsp
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\roslyn\System.AppContext.dll
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\roslyn\System.IO.FileSystem.dll
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\roslyn\vbc.exe
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\roslyn\vbc.exe.config
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\roslyn\vbc.rsp
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\roslyn\VBCSCompiler.exe
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\Antlr3.Runtime.dll
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\Newtonsoft.Json.dll
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\SV18T1021143.BusinessLayer.dll
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\SV18T1021143.DataLayer.dll
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\SV18T1021143.DomainModel.dll
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\System.Web.Helpers.dll
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\System.Web.Mvc.dll
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\System.Web.Optimization.dll
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\System.Web.Razor.dll
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\System.Web.WebPages.dll
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\System.Web.WebPages.Razor.dll
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\WebGrease.dll
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\SV18T1021143.BusinessLayer.pdb
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\SV18T1021143.DataLayer.pdb
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\SV18T1021143.DomainModel.pdb
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\System.Web.Helpers.xml
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\System.Web.Mvc.xml
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\System.Web.Optimization.xml
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\System.Web.Razor.xml
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\System.Web.WebPages.xml
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\System.Web.WebPages.Razor.xml
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\Newtonsoft.Json.xml
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\Antlr3.Runtime.pdb
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\obj\Debug\SV18T1021143.Web.csproj.AssemblyReference.cache
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\obj\Debug\SV18T1021143.Web.csproj.CoreCompileInputs.cache
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\obj\Debug\SV18T1021143.Web.csproj.CopyComplete
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\obj\Debug\SV18T1021143.Web.dll
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.Web\obj\Debug\SV18T1021143.Web.pdb
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\SV18T1021143.Web.dll.config
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\SV18T1021143.Web.dll
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\SV18T1021143.Web.pdb
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\roslyn\csc.exe
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\roslyn\csc.exe.config
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\roslyn\csc.rsp
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\roslyn\csi.exe
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\roslyn\csi.rsp
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\roslyn\System.AppContext.dll
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\roslyn\vbc.exe
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\roslyn\vbc.exe.config
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\roslyn\vbc.rsp
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\Antlr3.Runtime.dll
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\Newtonsoft.Json.dll
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\SV18T1021143.BusinessLayer.dll
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\SV18T1021143.DataLayer.dll
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\SV18T1021143.DomainModel.dll
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\System.Web.Helpers.dll
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\System.Web.Mvc.dll
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\System.Web.Optimization.dll
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\System.Web.Razor.dll
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\System.Web.WebPages.dll
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\WebGrease.dll
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\SV18T1021143.BusinessLayer.pdb
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\SV18T1021143.DataLayer.pdb
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\SV18T1021143.DomainModel.pdb
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\System.Web.Helpers.xml
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\System.Web.Mvc.xml
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\System.Web.Optimization.xml
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\System.Web.Razor.xml
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\System.Web.WebPages.xml
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\Newtonsoft.Json.xml
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\Antlr3.Runtime.pdb
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\obj\Debug\SV18T1021143.Web.csproj.AssemblyReference.cache
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\obj\Debug\SV18T1021143.Web.csproj.CoreCompileInputs.cache
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\obj\Debug\SV18T102.ACAE3D52.Up2Date
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\obj\Debug\SV18T1021143.Web.dll
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.Web\obj\Debug\SV18T1021143.Web.pdb

@@ -1,0 +1,55 @@
+﻿@model SV18T1021143.DomainModel.Category
+@{
+    ViewBag.Title = "Delete";
+}
+
+<div class="box box-primary">
+    <div class="box-header with-border header">
+        <h3 class="box-title"></h3>
+
+        <div class="box-tools pull-right">
+
+        </div>
+
+        <form class="form-horizontal" action="~/category/delete/@Model.CategoryID" method="post">
+
+
+            <div class="form-group">
+                <label class="control-label col-sm-2">Tên loại hàng:</label>
+                <div class="col-sm-10">
+                    <p class="form-control-static">@Model.CategoryName</p>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label col-sm-2">Nội dung:</label>
+                <div class="col-sm-10">
+                    <p class="form-control-static">@Model.Description</p>
+                </div>
+            </div>
+
+
+            <div class="form-group">
+                <div class="col-sm-offset-2 col-sm-10">
+                    @if (SV18T1021143.BusinessLayer.ComomDataService.InUsedCategories(Model.CategoryID))
+                    {
+                        <p class="text-danger"> Không được xóa nhà cung cấp</p>
+                    }
+                    else
+                    {
+                        <button type="submit" class="btn btn-danger">
+                            <i class="fa fa-remove"></i> Đồng ý xóa
+                        </button>
+
+                    }
+
+                    <a class="btn btn-warning" href="~/category">
+                        <i class="fa fa-ban"></i> Quay lại
+                    </a>
+
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+

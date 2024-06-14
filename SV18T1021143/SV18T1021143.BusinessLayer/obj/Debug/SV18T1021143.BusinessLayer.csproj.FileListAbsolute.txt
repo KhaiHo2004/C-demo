@@ -1,0 +1,22 @@
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.BusinessLayer\bin\Debug\SV18T1021143.BusinessLayer.dll
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.BusinessLayer\bin\Debug\SV18T1021143.BusinessLayer.pdb
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.BusinessLayer\bin\Debug\SV18T1021143.DataLayer.dll
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.BusinessLayer\bin\Debug\SV18T1021143.DomainModel.dll
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.BusinessLayer\bin\Debug\SV18T1021143.DataLayer.pdb
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.BusinessLayer\bin\Debug\SV18T1021143.DomainModel.pdb
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.BusinessLayer\obj\Debug\SV18T1021143.BusinessLayer.csproj.AssemblyReference.cache
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.BusinessLayer\obj\Debug\SV18T1021143.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.BusinessLayer\obj\Debug\SV18T1021143.BusinessLayer.csproj.CopyComplete
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.BusinessLayer\obj\Debug\SV18T1021143.BusinessLayer.dll
+D:\Ki2-Nam4\Lap trinh mang\SV18T1021143\SV18T1021143.BusinessLayer\obj\Debug\SV18T1021143.BusinessLayer.pdb
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.BusinessLayer\bin\Debug\SV18T1021143.BusinessLayer.dll
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.BusinessLayer\bin\Debug\SV18T1021143.BusinessLayer.pdb
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.BusinessLayer\bin\Debug\SV18T1021143.DataLayer.dll
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.BusinessLayer\bin\Debug\SV18T1021143.DomainModel.dll
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.BusinessLayer\bin\Debug\SV18T1021143.DataLayer.pdb
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.BusinessLayer\bin\Debug\SV18T1021143.DomainModel.pdb
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.BusinessLayer\obj\Debug\SV18T1021143.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.BusinessLayer\obj\Debug\SV18T1021143.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.BusinessLayer\obj\Debug\SV18T102.480C7DB0.Up2Date
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.BusinessLayer\obj\Debug\SV18T1021143.BusinessLayer.dll
+C:\Users\DangKhai\Downloads\SV18T1021143\SV18T1021143\SV18T1021143.BusinessLayer\obj\Debug\SV18T1021143.BusinessLayer.pdb
